@@ -18,15 +18,21 @@ h1 {
     background-color: papayawhip;
     margin-top: 100px;
     display: flex;
+    justify-content: space-around;
 }
 .item {
     background-color: powderblue;
     font-size: 1.5rem;
     width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .item:nth-child(1) {
     background-color: lightgreen;
+    align-self: flex-end;
 }
 
 .item:nth-child(2) {
