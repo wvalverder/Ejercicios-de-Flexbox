@@ -32,6 +32,7 @@ h1 {
 
 .item:nth-child(1) {
     background-color: lightgreen;
+    align-self: flex-end;
 }
 
 .item:nth-child(2) {
