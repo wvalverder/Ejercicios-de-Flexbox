@@ -7,3 +7,7 @@ estos cambios funcionen ahora.
 Ahora agregaremos un cambio que 
 nos interesa para poder probar el
 comando diff
+ahora ingresaremos unos nuevos cambios
+como por ejemplo
+
+El concepto de EIGRP para redes Cisco.
